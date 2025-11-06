@@ -1,3 +1,4 @@
+# Edited: added version control demo
 # Calculator-project01
 Simple calculator to demonstrate git,python and Vs code 
 # lab1_calculator.py
